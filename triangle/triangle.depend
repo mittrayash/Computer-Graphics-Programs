@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1470626330 source:c:\users\mittr\documents\codeblocks\triangle\main.cpp
+	<iostream>
+	<dos.h>
+	<conio.h>
+	<graphics.h>
+	<stdio.h>
+

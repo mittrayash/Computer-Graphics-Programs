@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1471630461 source:c:\users\mittr\documents\codeblocks\linedda2\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+

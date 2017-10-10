@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475150189 source:c:\users\mittr\documents\codeblocks\cgmm2_rotation\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+

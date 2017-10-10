@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1471512428 source:c:\users\mittr\documents\codeblocks\hexagon\main.c
+	<iostream>
+	<dos.h>
+	<conio.h>
+	<graphics.h>
+	<stdio.h>
+
+1471512526 source:c:\users\mittr\documents\codeblocks\hexagon\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<stdlib.h>
+

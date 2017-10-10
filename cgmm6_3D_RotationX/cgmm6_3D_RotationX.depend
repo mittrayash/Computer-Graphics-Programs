@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475951854 source:c:\users\mittr\documents\codeblocks\cgmm6_3d_rotationx\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+

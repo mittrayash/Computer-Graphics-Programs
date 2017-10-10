@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473506099 source:c:\users\mittr\documents\codeblocks\cgmm2_midptcircle\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+

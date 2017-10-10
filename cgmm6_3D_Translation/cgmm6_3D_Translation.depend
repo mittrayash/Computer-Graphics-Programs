@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475817937 source:c:\users\mittr\documents\codeblocks\cgmm6_3d_translation\main.cpp
+	<stdio.h>
+	<graphics.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1470626745 source:c:\users\mittr\documents\codeblocks\hut\main.cpp
+	<iostream>
+	<dos.h>
+	<conio.h>
+	<graphics.h>
+	<stdio.h>
+

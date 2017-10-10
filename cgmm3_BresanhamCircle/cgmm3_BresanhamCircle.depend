@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472188878 source:c:\users\mittr\documents\codeblocks\cgmm3_bresanhamcircle\main.cpp
+	<stdio.h>
+	<graphics.h>
+

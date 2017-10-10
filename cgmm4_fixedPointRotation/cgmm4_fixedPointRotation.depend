@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475150946 source:c:\users\mittr\documents\codeblocks\cgmm4_fixedpointrotation\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+

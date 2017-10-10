@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472121571 source:c:\users\mittr\documents\codeblocks\linedda4\main.cpp
+	<stdio.h>
+	<graphics.h>
+

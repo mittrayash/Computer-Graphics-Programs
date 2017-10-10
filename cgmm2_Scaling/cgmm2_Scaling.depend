@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475150465 source:c:\users\mittr\documents\codeblocks\cgmm2_scaling\main.cpp
+	<stdio.h>
+	<graphics.h>
+
